@@ -1,5 +1,5 @@
 "use strict";
-(this["webpackChunkclient"] = this["webpackChunkclient"] || []).push([["main"],{
+(self["webpackChunkclient"] = self["webpackChunkclient"] || []).push([["main"],{
 
 /***/ 1634:
 /*!********************************************************!*\
