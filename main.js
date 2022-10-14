@@ -387,7 +387,7 @@ __webpack_require__.r(__webpack_exports__);
 class EmployeeService {
     constructor(httpClient) {
         this.httpClient = httpClient;
-        this.url = 'http://localhost:5200';
+        this.url = 'https://production-server-mean.herokuapp.com';
         this.employees$ = new rxjs__WEBPACK_IMPORTED_MODULE_0__.Subject();
     }
     refreshEmployees() {
